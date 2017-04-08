@@ -1,4 +1,4 @@
-setwd("~/Documents/Coursera_courses/R/R_progr_JHopkins/working_dir_coursera_R/Mod4/W1_quiz")
+setwd("~/Documents/Coursera_courses")
 getwd()
 
 # packages used
