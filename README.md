@@ -1,7 +1,3 @@
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## ReadMe
 This project is the peer-reviewed assessment at the end of week 1 of the course 'Exploratory Data Analysis' on Coursera.
 The purpose of this project is to demonstrate  student's ability to generate exploratory graphs using the base plotting system in R.
